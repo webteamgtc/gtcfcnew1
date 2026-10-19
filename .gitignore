@@ -1,0 +1,14 @@
+# dependencies / build (legacy local artifacts)
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
+
+# env / secrets
+.env
+.env*.local
+
+# logs
+*.log
